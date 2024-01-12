@@ -41,4 +41,7 @@ Variables are used to store the cost of different upgrades for comparison and pu
 The script attempts to buy the most expensive upgrades first, based on the available in-game currency.
 
 # Important Note
-Ensure that you comply with the terms of service of the game and the website. Automated interactions may violate terms of service, and usage of this script is at your own risk.
+Ensure that you comply with the game's terms of service and the website. Automated interactions may violate terms of service, and usage of this script is at your own risk.
+
+### My record
+I have cookies/second : 2,931.6 cookies/second now. It's run number 3600
