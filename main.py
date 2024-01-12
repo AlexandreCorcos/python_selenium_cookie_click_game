@@ -49,7 +49,7 @@ while True:
     # Find cps (cookie per second)
     cps = driver.find_element(By.ID, value="cps").text
     count += 1
-    print(f"I have {cps} now. It's the run number {count}")
+    print(f"I have {cps} now. It's run number {count}")
 
     # Try to buy the most expensive things first
     if money > value_timemachine:
